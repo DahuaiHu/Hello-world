@@ -1,4 +1,5 @@
 # Hello-world
 This is a test for Github
 
-make and commit changes
+Welcome to GitHub Pages.
+This is the first blog.
