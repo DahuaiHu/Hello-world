@@ -1,10 +1,6 @@
-# hotfix
-git checkout to -b hotfix
-switch to a new branch 'hotfix'
-vim index.html
-// git commit -a -m 'fixed the broken email address'
+# master
 
-
-changes from master!!!
-
-delete the changes for test1 !!!
+int main(void)
+{
+    printf("master branch");
+}
