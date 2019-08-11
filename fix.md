@@ -5,6 +5,6 @@ vim index.html
 // git commit -a -m 'fixed the broken email address'
 
 
-changes from test1!!!
+changes from master!!!
 
-delete the changes for master!
+delete the changes for test1 !!!
